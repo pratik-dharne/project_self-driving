@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../self_driving"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "HTML Practise"
+	}
+}
